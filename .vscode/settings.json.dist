@@ -1,0 +1,13 @@
+{
+  "cSpell.ignoreWords": [
+    "httpd",
+    "keychain",
+    "keyout",
+    "newkey",
+    "openssl",
+    "paddleapi",
+    "rfile",
+    "wfile"
+  ],
+  "python.pythonPath": "/usr/lib/python-exec/python3.7/python3"
+}
